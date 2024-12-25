@@ -14,21 +14,21 @@ export function createEconomyPage() {
 function createEconomyNews() {
   const economyNews = [
     {
-      title: "PIB de Goiás cresce acima da média nacional",
-      description: "Estado registra expansão econômica significativa no último trimestre.",
-      image: "https://picsum.photos/300/200?random=16",
+      title: "IPVA: 15 de janeiro é data limite para desconto de 8%",
+      description: "Secretaria da Economia anuncia que, a partir de 2025, o calendário para pagamento começa na mesma data para todos os finais de placas.",
+      image: "/src/imgs/ec1.jpg",
       date: "Há 1 hora"
     },
     {
-      title: "Setor industrial atrai novos investimentos",
-      description: "Empresas anunciam instalação de fábricas no estado.",
-      image: "https://picsum.photos/300/200?random=17",
+      title: "Economia de Goiás cresce 5,5% em outubro",
+      description: "Prévia do Produto Interno Bruto (PIB), Índice de Atividade Econômica Regional (IBCR) considera a produção dos setores de agricultura, indústria e serviços.",
+      image: "/src/imgs/ec2.jpeg",
       date: "Há 3 horas"
     },
     {
-      title: "Agronegócio bate recorde de exportações",
-      description: "Commodities impulsionam balança comercial do estado.",
-      image: "https://picsum.photos/300/200?random=18",
+      title: "Sanear 2024 é prorrogado até 31 de dezembro",
+      description: "Descontos são de até 95% sobre multa, juros e atualização monetária. Negociação vale para faturas em aberto até maio de 2024.",
+      image: "/src/imgs/ec3.jpg",
       date: "Há 5 horas"
     }
   ];

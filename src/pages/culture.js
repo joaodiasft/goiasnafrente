@@ -14,21 +14,27 @@ export function createCulturePage() {
 function createCultureNews() {
   const cultureNews = [
     {
-      title: "Festival de Cinema de Goiás anuncia programação",
-      description: "Evento traz produções nacionais e internacionais para capital.",
-      image: "https://picsum.photos/300/200?random=13",
-      date: "Há 2 horas"
+      title: "Ossadas com mais de 200 anos são descobertas durante restauração de Igreja em Jaraguá",
+      description: "Cerca de 150 sepultamentos foram encontrados no local. A obra de restauração está sendo executada pelo Governo de Goiás e a previsão é de que seja concluída em 2025 A restauração da Igreja Nossa Senhora do Rosário dos Pretos, em Jaraguá, culminaram em uma importante descoberta arqueológica.",
+      image: "/src/imgs/osos.jpeg",
+      date: "Há 5 horas"
     },
     {
-      title: "Exposição celebra artistas goianos",
-      description: "Mostra reúne obras de grandes nomes das artes plásticas do estado.",
-      image: "https://picsum.photos/300/200?random=14",
+      title: "Governo de Goiás paga todos os editais da Pnab 2024",
+      description: "Estado é o primeiro do país a finalizar os pagamentos aos proponentes aprovados e aptos a receber no certame O Governo de Goiás, por meio da Secretaria de Estado da Cultura (Secult), finalizou nesta semana os pagamentos aos proponentes aprovados e aptos a receber nos editais da Política",
+      image: "/src/imgs/pnga.jpeg",
       date: "Há 4 horas"
     },
     {
-      title: "Teatro Goiânia recebe espetáculo premiado",
-      description: "Peça chega à capital após sucesso de público em São Paulo.",
-      image: "https://picsum.photos/300/200?random=15",
+      title: "Secult Goiás divulga funcionamento dos espaços culturais durante os feriados de fim de ano",
+      description: "Unidades fecham de 21 a 25 de dezembro e de 28 de dezembro a 1º de janeiro. Programações retornam no início de janeiro Os espaços culturais administrados pela Secretaria de Estado da Cultura de Goiás (Secult) terão alterações no funcionamento durante os feriados de fim de ano.",
+      image: "/src/imgs/secult.jpg",
+      date: "Há 6 horas"
+    },
+    {
+      title: "Secult Goiás convoca suplentes do edital de Pontos de Cultura da Lei Paulo Gustavo",
+      description: "A Secretaria de Estado da Cultura (Secult) divulga o chamamento de suplentes para a entrega da documentação dos projetos culturais da Lei Paulo Gustavo 2023, conforme publicação do Diário Oficial do Estado (DOE) desta quinta-feira (19/12). Nesta convocação, foram chamados suplentes para o edital nº 20.",
+      image: "/src/imgs/ss.jpeg",
       date: "Há 6 horas"
     }
   ];

@@ -11,12 +11,12 @@ export function createHomePage() {
           <div class="row align-items-center">
             <div class="col-lg-8">
               <h1 class="display-4 fw-bold mb-4">Bem-vindo ao Goiás na Frente</h1>
-              <p class="lead mb-4">Seu portal de notícias mais completo sobre o estado de Goiás, trazendo informação de qualidade e credibilidade desde 1970.</p>
+              <p class="lead mb-4">Seu portal de notícias mais completo sobre o estado de Goiás, trazendo informação de qualidade e credibilidade.</p>
               <div class="d-flex gap-3">
                 <a href="/noticias" class="btn btn-light btn-lg" data-route="/noticias">
                   Últimas Notícias
                 </a>
-                <a href="/instagram" class="btn btn-outline-light btn-lg" data-route="/instagram">
+                <a href="https://instagram.com/goiasnafrenteoficial_" class="btn btn-outline-light btn-lg" data-route="/instagram">
                   Siga-nos no Instagram
                 </a>
               </div>
@@ -34,9 +34,11 @@ export function createHomePage() {
           <div class="d-flex align-items-center">
             <span class="badge bg-danger me-3">URGENTE</span>
             <marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();">
-              Última hora: Governo anuncia novo pacote de investimentos para Goiás | 
-              Goiás FC conquista vitória importante no campeonato | 
-              Previsão do tempo: Chuvas intensas previstas para o fim de semana
+              Última hora: Casal da Cidade de Goiás morre em acidente de automóvel na GO-154 em Ceres - GO | 
+              Saúde alerta para importância da vacina contra influenza | 
+              Caseiro é encontrado morto e com corpo devorado por porcos |
+              Caiado acompanha envio de donativos ao RS e lança temporada Mais Araguaia 2024 |
+              Prefeito de Senador Canedo anuncia apoio à reeleição de Ronaldo Caiado.
             </marquee>
           </div>
         </div>

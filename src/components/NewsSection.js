@@ -75,17 +75,17 @@ function createFeaturedNews() {
 function createTrendingNews() {
   const trendingNews = [
     {
-      title: "Nova linha do BRT começa a operar em Goiânia",
+      title: "Caiado acompanha envio de donativos ao RS e lança temporada Mais Araguaia 2024",
       views: "2.5k",
       time: "2 horas"
     },
     {
-      title: "Festival gastronômico reúne chefs renomados",
+      title: "Polícia Civil volta a prender casal e mais um por tráfico de drogas em Luziânia",
       views: "1.8k",
       time: "3 horas"
     },
     {
-      title: "Goiás bate recorde em exportações agrícolas",
+      title: "Caseiro é encontrado morto e com corpo devorado por porcos",
       views: "1.5k",
       time: "4 horas"
     }
@@ -118,18 +118,18 @@ function createTrendingNews() {
 function createMainNews() {
   const mainNews = [
     {
-      title: "Novo Polo Industrial em Anápolis",
-      description: "Investimentos devem ultrapassar R$ 1 bilhão nos próximos anos.",
-      category: "Economia",
+      title: "Casal da Cidade de Goiás morre em acidente de automóvel na GO-154 em Ceres - GO",
+      description: "O fato aconteceu no início da noite no perímetro urbano de Ceres, no trevo que dá acesso ao Instituto Federal Goiano (IF Goiano). Na batida entre os dois veículos o homem perdeu a vida ainda no local e a mulher foi levada para unidade de saúde, mas não resistiu e também faleceu..",
+      category: "Acidente",
       date: "Há 2 horas",
-      image: "https://picsum.photos/300/200?random=2"
+      image: "/src/imgs/ger1.jpeg"
     },
     {
-      title: "Vila Cultural Recebe Exposição Internacional",
-      description: "Mostra traz obras de artistas de diversos países para Goiânia.",
-      category: "Cultura",
+      title: "Saúde alerta para importância da vacina contra influenza",
+      description: "Desde o dia 2 de maio, a SES-GO, atendendo recomendação do MS, ampliou a vacinação contra a influenza para toda a população acima de seis meses de idade. O MS acentuou que, apesar da alta vulnerabilidade dos grupos iniciais definidos como público-alvo da vacinação, a ampliação se justificou pelo benefício que o imunizante proporciona para a população não contemplada nos grupos prioritários..",
+      category: "Saúde",
       date: "Há 3 horas",
-      image: "https://picsum.photos/300/200?random=3"
+      image: "/src/imgs/ger2.jpg"
     }
   ];
 
@@ -143,17 +143,17 @@ function createMainNews() {
 function createSideNews() {
   const sideNews = [
     {
-      title: "Goiás FC Anuncia Novo Treinador",
+      title: "Vila Nova finalza participação na Copa Verde diante do Paysandu",
       category: "Esportes",
       date: "Há 4 horas"
     },
     {
-      title: "Projeto de Lei Ambiental é Aprovado",
+      title: "Ismael Alexandrino provoca Sandro Mabel: “Dura até quando a sua pré-candidatura?”",
       category: "Política",
       date: "Há 5 horas"
     },
     {
-      title: "Festival de Cinema Começa Amanhã",
+      title: "Abertas inscrições para curso superior em Produção Cênica",
       category: "Cultura",
       date: "Há 6 horas"
     }

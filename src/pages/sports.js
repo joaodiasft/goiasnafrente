@@ -15,12 +15,12 @@ export function createSportsPage() {
         <div class="row mb-5">
           <div class="col-lg-8">
             <div class="featured-news position-relative rounded-4 overflow-hidden shadow-lg">
-              <img src="https://picsum.photos/800/400?random=10" class="w-100" alt="Notícia em Destaque">
+              <img src="/src/imgs/es4.jpg" class="w-100" alt="Notícia em Destaque">
               <div class="featured-content position-absolute bottom-0 start-0 w-100 p-4 text-white" 
                    style="background: linear-gradient(transparent, rgba(0,0,0,0.9));">
                 <span class="badge bg-success mb-2">Destaque</span>
-                <h3 class="mb-2">Goiás Vence Clássico em Jogo Emocionante</h3>
-                <p class="mb-3">Partida decisiva define liderança do campeonato estadual.</p>
+                <h3 class="mb-2">Brasil tem domingo dourado no Mundial de atletismo paralímpico</h3>
+                <p class="mb-3">Graças ao paulista André Rocha e a potiguar Thalita Simplício o Brasil teve um domingo (19) dourado no Mundial de atletismo paralímpico.</p>
                 <div class="d-flex align-items-center gap-3">
                   <span><i class="bi bi-clock"></i> Há 1 hora</span>
                   <span><i class="bi bi-eye"></i> 5.2k visualizações</span>
@@ -63,19 +63,34 @@ export function createSportsPage() {
 function createTopSportsNews() {
   const topNews = [
     {
-      title: "Vila Nova anuncia novo treinador",
+      title: "Pedro decide e Fla derrota Millonarios para avançar na Libertadores",
       views: "3.2k",
       time: "2 horas"
     },
     {
-      title: "Atlético-GO se prepara para decisão",
+      title: "Goiás é derrotado na ressacada pelo Avaí",
       views: "2.8k",
       time: "3 horas"
     },
     {
-      title: "Goiânia EC renova com artilheiro",
+      title: "Vila Nova dá sinais de que desistiu da Copa Verde",
       views: "2.5k",
       time: "4 horas"
+    },
+    {
+      title: "Goiás goleia o Botafogo-SP",
+      views: "7.5k",
+      time: "1 horas"
+    },
+    {
+      title: "Atletas goianos conquistam 11 medalhas no primeiro dia das Paralimpíadas Escolares 2021",
+      views: "3.5k",
+      time: "2 horas"
+    },
+    {
+      title: "Aparecidense é o primeiro semifinalista da Série D Camaleão empatou em 1 a 1 com o Uberlândia",
+      views: "1.5k",
+      time: "8 horas"
     }
   ];
 
@@ -98,24 +113,24 @@ function createTopSportsNews() {
 function createSportsNews() {
   const sportsNews = [
     {
-      title: "Goiás EC Intensifica Preparação",
-      description: "Equipe se prepara para decisão do campeonato com treinos intensivos.",
-      image: "https://picsum.photos/300/200?random=11",
+      title: "Vila Nova acerta com o técnico Luizinho Lopes, ex-Brusque",
+      description: "O Vila Nova contratou o técnico Luizinho Lopes. Ele tem 42 anos e chegou a Goiânia na noite desta quinta-feira para assinar com o novo clube.",
+      image: "/src/imgs/es1.jpeg",
       category: "Futebol",
       date: "Há 2 horas"
     },
     {
-      title: "Atleta Goiano nas Olimpíadas",
-      description: "Representante do estado garante vaga para Paris 2024.",
-      image: "https://picsum.photos/300/200?random=12",
-      category: "Olimpíadas",
+      title: "18 municípios goianos terão campos sintéticos de futebol society",
+      description: "Governo de Goiás vai construir campos de futebol Society em 18 municípios goianos.",
+      image: "/src/imgs/es2.jpg",
+      category: "Society",
       date: "Há 3 horas"
     },
     {
-      title: "Vôlei Goiano em Destaque",
-      description: "Equipe local avança às semifinais da Superliga.",
-      image: "https://picsum.photos/300/200?random=13",
-      category: "Vôlei",
+      title: "Após jogo adiado, Jair Ventura monta time do Atlético Goianiense para decisão na Copa do Brasil",
+      description: "O Atlético Goianiense tinha previsto uma viagem para Salvador para entrar em campo no ultimo sábado (18), mas a Confederação Brasileira de Futebol.",
+      image: "/src/imgs/es3.jpeg",
+      category: "Tecnico",
       date: "Há 4 horas"
     }
   ];

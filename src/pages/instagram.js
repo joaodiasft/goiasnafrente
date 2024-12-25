@@ -4,23 +4,23 @@ export function createInstagramPage() {
       <div class="container">
         <div class="text-center mb-5">
           <i class="bi bi-instagram display-1 text-success"></i>
-          <h1 class="section-title mt-4">@goiasnafrenteoficial</h1>
+          <h1 class="section-title mt-4">@goiasnafrenteoficial_</h1>
           <p class="lead mb-4">Siga-nos no Instagram para conteúdo exclusivo e atualizações em tempo real</p>
           <div class="d-flex justify-content-center gap-3 mb-5">
             <div class="text-center">
-              <h3 class="fw-bold mb-1">50K+</h3>
+              <h3 class="fw-bold mb-1">9K+</h3>
               <p class="text-muted">Seguidores</p>
             </div>
             <div class="text-center">
-              <h3 class="fw-bold mb-1">2K+</h3>
+              <h3 class="fw-bold mb-1">350+</h3>
               <p class="text-muted">Posts</p>
             </div>
             <div class="text-center">
-              <h3 class="fw-bold mb-1">98%</h3>
+              <h3 class="fw-bold mb-1">85%</h3>
               <p class="text-muted">Engajamento</p>
             </div>
           </div>
-          <a href="https://instagram.com/goiasnafrenteoficial" 
+          <a href="https://instagram.com/goiasnafrenteoficial_" 
              target="_blank" 
              class="btn btn-success btn-lg px-5">
             <i class="bi bi-instagram me-2"></i>
@@ -157,7 +157,7 @@ function createInstagramHighlights() {
 function createInstagramReels() {
   const reels = [
     {
-      thumbnail: "https://picsum.photos/300/533?random=7",
+      thumbnail: "https://picsum.photos/300/533?random=2",
       title: "Um dia na Assembleia Legislativa",
       views: "50k",
       duration: "0:59"
