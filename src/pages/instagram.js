@@ -74,21 +74,21 @@ function createInstagramFeed() {
       hashtags: "#Turismo #ChapadadosVeadeiros #Natureza"
     },
     {
-      image: "https://picsum.photos/600/600?random=4",
+      image: "https://drive.google.com/file/d/1JLDDWkzy6yubj40pupnO432dLBWLjL_5/view?usp=drive_link",
       likes: "1.9k",
       comments: "267",
       description: "Pequi: o ouro amarelo do cerrado goiano 🥘",
       hashtags: "#Gastronomia #Cultura #Goiás"
     },
     {
-      image: "https://picsum.photos/600/600?random=5",
+      image: "https://img.ge/scAPfhJzqJPWgai",
       likes: "2.1k",
       comments: "289",
       description: "Goiânia: a capital do sertanejo e do desenvolvimento 🌆",
       hashtags: "#Goiânia #Desenvolvimento #Cultura"
     },
     {
-      image: "https://picsum.photos/600/600?random=6",
+      image: "https://drive.google.com/file/d/1EXuHZxca6J-wjRWoGbC9Ladof9aJPFxN/view?usp=drive_link",
       likes: "2.7k",
       comments: "356",
       description: "Bastidores da cobertura especial sobre o agronegócio em Goiás 📱",
@@ -157,19 +157,19 @@ function createInstagramHighlights() {
 function createInstagramReels() {
   const reels = [
     {
-      thumbnail: "https://picsum.photos/300/533?random=2",
-      title: "Um dia na Assembleia Legislativa",
+      thumbnail: "CAMARA_EXPEDICAO_300x500px.gif",
+      title: "Camara de Expedição",
       views: "50k",
       duration: "0:59"
     },
     {
-      thumbnail: "https://picsum.photos/300/533?random=8",
+      thumbnail: "C:\Users\joaod\Downloads\goiasnafrente-main\goiasnafrente-main\src\pages\CAMARA_EXPEDICAO_300x500px.gif",
       title: "Bastidores do Goiás x Vila Nova",
       views: "45k",
       duration: "0:45"
     },
     {
-      thumbnail: "https://picsum.photos/300/533?random=9",
+      thumbnail: "\src\pages\CAMARA_EXPEDICAO_300x500px.gif",
       title: "Festival Gastronômico de Goiás",
       views: "38k",
       duration: "0:52"

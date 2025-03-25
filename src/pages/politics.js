@@ -16,19 +16,19 @@ function createPoliticsNews() {
     {
       title: "Alerta de fofura: bebês do Hospital de Luziânia posam pra sessão de fotos natalinas",
       description: "Mamães e seus recém-nascidos celebram o espírito natalino em um momento especial de ternura e humanização promovido pela equipe da maternidade.",
-      image: "/src/imgs/po1.jpeg",
+      image: "po1.jpeg",
       date: "Há 2 horas"
     },
     {
       title: "Agência Virtual da Saneago atende 24 horas por dia",
       description: "Clientes podem, por exemplo, solicitar reparos em vazamentos de água e desobstrução de esgotos pelo site, sem necessidade de login, todos os dias da semana, em qualquer horário.",
-      image: "/src/imgs/po2.jpg",
+      image: "po2.jpg",
       date: "Há 4 horas"
     },
     {
       title: "Policiamento Rodoviário intensifica ações no fim de ano em Goiás",
       description: "Operação busca garantir segurança nas rodovias goianas frente ao aumento do fluxo de veículos no período de festas e férias escolares.",
-      image: "/src/imgs/po3.jpeg",
+      image: "po3.jpeg",
       date: "Há 6 horas"
     }
   ];

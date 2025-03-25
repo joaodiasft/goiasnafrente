@@ -16,19 +16,19 @@ function createGeneralNews() {
     {
       title: "Lula assina indulto natalino para presos com HIV e câncer",
       description: "Ficam de foram criminosos que atentaram contra o Estado Democrático de Direito, presos por crimes sexuais, abuso de autoridade, violência contra à mulher e líderes de facções.",
-      image: "/src/imgs/ng1.jpeg",
+      image: "ng1.jpeg",
       date: "Há 1 hora"
     },
     {
       title: "Sandro Mabel anuncia 3 novos secretários para seu governo em Goiânia",
       description: "Prefeito eleito nomeia Eerizânia Freitas como chefe da Assistência Social, Zilma Percussor para presidente da AMA e Uugton Batista à frente da Cultura.",
-      image: "/src/imgs/ng2.jpeg",
+      image: "ng2.jpeg",
       date: "Há 3 horas"
     },
     {
       title: "Caldas Novas institui taxa de turismo com valores entre 5 e 183 reais",
       description: "Prefeito reeleito Kleber Marra (MDB) sancionou texto aprovado pelos vereadores sob justificativa de investir valor arrecadado na preservação do meio ambiente e infraestrutura.",
-      image: "/src/imgs/ng3.jpg",
+      image: "ng3.jpg",
       date: "Há 5 horas"
     }
   ];
